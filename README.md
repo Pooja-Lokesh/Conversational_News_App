@@ -1,13 +1,7 @@
 # Voice Controlled React News Application - Alan AI Voice Assistant
 
-### [Live Site](https://alan-news-app.netlify.app/)
-
-![Voice Controlled React News Application](https://i.ibb.co/SVyK6Nh/Screenshot-2020-08-03-at-21-24-23.png)
-
-## Introduction
-This is a code repository for the corresponding video tutorial. 
-
-In this video, we're going to build a Conversational Voice Controlled React News Application using Alan AI. Alan AI is a revolutionary speech recognition software that allows you to add voice capabilities to your applications. It allows you to control absolutely everything in the app using your voice. Another huge benefit is that it's extremely easy to integrate it. We'll do it together in this video and afterward, you'll be able to create your own voice-controlled apps.  
-
-Setup:
-- run ```npm i && npm start``` to start development server
+- A web application created using Alan AI voice assistant.
+- It has a button, which enables the computer to listen to our requests on clicking on it.
+- The user can request for news in 4 different forms : latest news, news by categories, news by terms, news by sources.
+- It listens to the user and lists out the requested news along with reading it out loud.
+- The user is given an option to let the app read the news or read it by themselves.
